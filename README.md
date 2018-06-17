@@ -24,7 +24,7 @@ This repository contains code that is created in my course (Test automation with
 **How to clone this repository:**
 1. Open terminal
 2. Change the current working directory to the location where you want the cloned directory to be made
-3. Type ``` $ git clone https://github.com/AhmedM1992/basics-of-python.git ```
+3. Type ``` git clone https://github.com/AhmedM1992/basics-of-python.git ```
 4. Press **Enter**. Your local clone will be created.
 
 Enjoy :yum:
