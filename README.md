@@ -14,11 +14,11 @@ This repository contains code that is created in my course (Test automation with
 10. Passing functions as arguments
 11. Decorators
 
-Tools and links you need:
-1. **Pycharm community**
+**Tools and links you need:**
+1. Pycharm community
 [Download Pycharm community for Windows, MacOS or Linux](https://www.jetbrains.com/pycharm/download/#section=linux)
 
-2. **Postman**
+2. Postman
 [Download Postman for windows, MacOS or linux](https://www.getpostman.com/apps)
 
 
