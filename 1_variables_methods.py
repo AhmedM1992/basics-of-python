@@ -1,6 +1,5 @@
 # Variables
 
-
 a = 15
 
 b = 10
@@ -16,7 +15,6 @@ var2 = 'hi'
 
 # Print variables
 
-
 print(my_string)
 print(a)
 print(a*b)
@@ -26,9 +24,7 @@ print(var2)
 print('Hello world!')
 print(2018)
 
-
 # Methods
-
 
 def my_first_func(my_argument):
     print(my_argument)
@@ -47,6 +43,8 @@ print(result)
 print(my_multiply_func(5, 6))
 
 
+def sum_me(arg_1, arg_2):
+    return arg_1 + arg_2
 
 
-
+print(sum_me(4, 6))
