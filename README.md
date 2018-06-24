@@ -5,7 +5,7 @@ This repository contains code that is created in my course (Test automation with
 1. Variables
 2. Methods
 3. Lists, tuples, and sets
-4. If statements
+4. Loops
 5. List comprehension
 6. Dictionaries
 7. Classes and objects
