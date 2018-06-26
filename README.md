@@ -1,4 +1,4 @@
-# basics-of-python
+# Basics of Python
 ## A repository of basic information about Python
 
 This repository contains code that is created in my course (Test automation with Python):
