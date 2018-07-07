@@ -1,5 +1,5 @@
-my_list = [0, 1, 2, 3, 4]
-an_equal_list = [x for x in range(5)]
+my_list = [0, 1, 2, 3, 4, 5]
+an_equal_list = [x for x in range(6)]
 print(an_equal_list)
 
 # Examples
