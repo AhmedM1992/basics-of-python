@@ -9,7 +9,7 @@ This repository contains code that is created in my course (Test automation with
 5. List comprehension
 6. Dictionaries
 7. Classes and objects
-8. Static and class methods
+8. Inheritance in OOP
 9. Args and Kwargs
 10. Passing functions as arguments
 11. Decorators
