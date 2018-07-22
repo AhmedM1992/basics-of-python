@@ -35,4 +35,5 @@ Anna = StudentAddress("Anna", "Oxford",
                       "Programmer", 2000,
                       "USA", "LA", "My street")
 print(Anna.country)
-print(Anna.salary)
+print(Anna.city)
+
