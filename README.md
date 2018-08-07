@@ -15,10 +15,13 @@ This repository contains code that is created in my course (Test automation with
 11. Decorators
 
 **Tools and links you need:**
-1. Pycharm community
+1. Python 3.7.0
+[Download Python 3.7.0](https://www.python.org/downloads/)
+
+2. Pycharm community
 [Download Pycharm community for Windows, MacOS or Linux](https://www.jetbrains.com/pycharm/download/#section=linux)
 
-2. Postman
+3. Postman
 [Download Postman for Windows, MacOS or Linux](https://www.getpostman.com/apps)
 
 **How to clone this repository:**
