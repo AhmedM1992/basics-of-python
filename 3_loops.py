@@ -1,5 +1,6 @@
 '''FOR loop'''
 
+
 a = "I love loops"
 
 for character in a:      # iterables are strings, lists, tuples, sets and more
